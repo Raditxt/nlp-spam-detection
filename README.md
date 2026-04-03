@@ -4,6 +4,8 @@ Lightweight spam detection system that classifies SMS messages as spam or ham us
 
 > **Disclaimer:** For educational purposes only.
 
+> ⚠️ **AI Assistance Disclaimer:** The documentation, markdown explanations, and narrative content in this repository (including this README) were written and assisted by **Claude (Anthropic)**, an AI assistant. The code, experiment design, and results were developed and verified by the author through a hands-on iterative process. This disclaimer is included in the spirit of transparency and academic honesty.
+
 ---
 
 ## Results
@@ -16,6 +18,15 @@ Lightweight spam detection system that classifies SMS messages as spam or ham us
 | Accuracy (overall) | | **0.97** |
 
 > F1-score is used as the primary metric due to class imbalance (87% ham, 13% spam).
+
+---
+
+## Kaggle Notebook
+
+A fully documented version of this project is available on Kaggle:
+👉 **[SMS Spam Classifier — TF-IDF + Logistic Regression](https://www.kaggle.com/code/radityamulyaakbar/spam-classifier)**
+
+*(Replace the link above with your actual Kaggle notebook URL)*
 
 ---
 
