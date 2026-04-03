@@ -35,4 +35,3 @@ pip install -r requirements.txt
 - Python, scikit-learn, NLTK
 - TF-IDF Vectorizer
 - Logistic Regression
-```
