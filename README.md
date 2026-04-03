@@ -1,6 +1,3 @@
-Baik, saya perbaiki sesuai permintaan Anda. Berikut versi yang diperbagus tetapi tetap mempertahankan struktur dan konten asli Anda:
-
-```markdown
 # NLP Spam Detection
 
 Lightweight NLP spam detection system that classifies messages as spam or legitimate using TF-IDF and machine learning. Built as a baseline text classification project with evaluation metrics and reproducible pipeline.
